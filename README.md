@@ -26,8 +26,8 @@ Ensure you have Python 3.x installed on your system. You can download it from [p
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/health_check_project.git
-cd health_check_project
+git clone https://github.com/aycaoktay/health-check-script-with-python
+cd healthCheck
 
 ```
  ### Step 2 : Create andd Activate a Virtual Env
